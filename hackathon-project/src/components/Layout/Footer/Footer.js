@@ -15,6 +15,7 @@ class Footer extends React.Component {
           width = "250px"
           children = "Presentation"
           margin = "0 auto"
+          fontSize = "x-large"
         />
       </footer>
     );

@@ -9,7 +9,8 @@ const Button = ({
     onClick, 
     radius,
     width,
-    margin
+    margin,
+    fontSize
   }) => { 
   return (
     <button
@@ -21,7 +22,8 @@ const Button = ({
          borderRadius: radius,
          height,
          width,
-         margin
+         margin,
+         fontSize
       }}
     >
     {children}

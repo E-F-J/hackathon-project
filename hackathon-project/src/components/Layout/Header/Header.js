@@ -4,7 +4,7 @@ import logoWomenHealth from '../../../assets/logoWomenHealth.png'
 class Header extends React.Component {
   render() {
     return(
-      <header>
+      <header className="headerBanner">
         <img className="logo" src={logoWomenHealth} alt="logoWomenHealth"/>
       </header>
     );
