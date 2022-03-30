@@ -8,7 +8,7 @@ class Footer extends React.Component {
         <Button
           display="block" 
           border="none"
-          color="rgb(200, 200, 200)"
+          color="#b9870996"
           height = "100px"
           onClick={() => console.log("You clicked on the pink circle!")}
           radius = "5%"
